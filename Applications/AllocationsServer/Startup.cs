@@ -11,7 +11,6 @@ using Steeltoe.CloudFoundry.Connector.MySql.EFCore;
 using Steeltoe.Management.CloudFoundry;
 using Steeltoe.Discovery.Client;
 using Steeltoe.Common.Discovery;
-
 using Microsoft.Extensions.Logging;
 using Steeltoe.CircuitBreaker.Hystrix;
 using Microsoft.AspNetCore.Mvc.Authorization;
